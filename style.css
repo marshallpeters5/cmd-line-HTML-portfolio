@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .name{
+    font-size: 3rem;
+    margin: auto;
+  }
+  .lead {
+    font-size: 2rem;
+    text-align: center;
+  }
